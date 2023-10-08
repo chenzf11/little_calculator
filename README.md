@@ -1,2 +1,5 @@
 # little_calculator
 my first android project：a little calculator
+
+一共只用了两个文件：布局文件activity_main.xml和代码逻辑实现文件MainActivity.java
+布局文件边写边看右边的布局视图，注意每一个视图都要写长度和宽度，编译成功后logout也要看一眼，可能在build那边是成功的，但是logout那里又有错误提示，不处理的话打开APP会闪退
